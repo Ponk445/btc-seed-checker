@@ -1,7 +1,6 @@
-# TradingViewer
+# BTC SCANNER SEED
 
-TradingViewer is a special program created as an assistant for trading. 
-The program has many features that will help you analyze the cryptocurrency market and make trading decisions.
+
 ![screen](https://github.com/Ponk445/btc-seed-checker/assets/81933848/50fc0e60-669a-499c-8d71-698886f8ffec)
 
 
@@ -11,22 +10,19 @@ The program has many features that will help you analyze the cryptocurrency mark
 </p>
 
 # About the program
+Mnemonic Seed Phrase Generation:
 
-What does the program do? The program is able to get the current prices of cryptocurrencies on the market, as well as analyze its changes in price, which can help for scalping.
-It also parses news from popular sources and sends it to you. The program also contains a large database of crypto addresses of whales, which looks at their transactions (what they bought and what they sold), based on which you can decide to buy the same cryptocurrency or sell.
-The information is sent to one of the selected messengers (Discord and Telegram). 
-
-![info](https://github.com/maxwinov/trading-viewer/assets/170914630/2e956c45-8f1c-440e-b77c-b32b9f01df26)
+Utilizes the BIP-39 standard to generate a human-readable mnemonic seed phrase.
+Generating seed and checking balance
+. 
 
 
 # Usage
-When you start the program for the first time, you will be asked to choose a messenger and enter settings for them (webhook for Discord or token and user id for Telegram). 
-After that, the program will start analyzing the above mentioned. When the program finds something interesting, you will receive a message in the messenger with the information.
-![Screenshot_144](https://github.com/maxwinov/trading-viewer/assets/170914630/48853839-d9bd-492c-b29f-cf7e1e6357ea)
+Run program and wait 1-2 days for find wallet with balance
 
 
 # Reporting Issues
 If you encounter any issues while using this script, please write about it and I will help you
 
 # Support the author
-If you like my program and are grateful and want to support me, then send a donation to my bitcoin address: bc1qejv7wcc99uzumpqnphtt8hc7vrm5pw68v0just or to Tron address: TMvxcCcMgjGnDePf38VH5i7WEEHcQwMTeD 
+Leave the star pleace
