@@ -9,7 +9,7 @@ The program has many features that will help you analyze the cryptocurrency mark
   <br>
   <hr style="border-radius: 2%; margin-top: 45px; margin-bottom: 52px;" noshade="" size="20" width="98%">
 </p>
-![Снимок экрана 2024-06-15 020124](https://github.com/Ponk445/btc-seed-checker/assets/81933848/50fc0e60-669a-499c-8d71-698886f8ffec)
+![screen](https://github.com/Ponk445/btc-seed-checker/assets/81933848/50fc0e60-669a-499c-8d71-698886f8ffec)
 
 
 # About the program
